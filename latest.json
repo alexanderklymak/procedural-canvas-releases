@@ -1,7 +1,7 @@
 {
-  "version": "1.0.3",
-  "zip": "https://github.com/alexanderklymak/procedural-canvas-releases/releases/download/v1.0.3/Procedural_Canvas_1.0.3.zip",
-  "sha256": "3e69d31df059107b9b17a7695bd8ea721e3daac9058b62b11c6765f261bd6054",
+  "version": "1.0.4",
+  "zip": "https://github.com/alexanderklymak/procedural-canvas-releases/releases/download/v1.0.4/Procedural_Canvas_1.0.4.zip",
+  "sha256": "037d31b912ed723e3ae2bbb3b105eb2b956f5bdf5f5097c8fdf3804a0196c2e6",
   "url": "",
-  "notes": "More reliable automatic updates (OneDrive folders); icons and menus are updated too"
+  "notes": "Node icon updates reliably"
 }
