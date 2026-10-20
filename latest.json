@@ -1,7 +1,7 @@
 {
-  "version": "1.0.1",
-  "zip": "https://github.com/alexanderklymak/procedural-canvas-releases/releases/download/v1.0.1/Procedural_Canvas_1.0.1.zip",
-  "sha256": "73a253f89814dffb20e5f5689b3b0ed9b68a622d95bcde013dcd2de64aa304c0",
+  "version": "1.0.2",
+  "zip": "https://github.com/alexanderklymak/procedural-canvas-releases/releases/download/v1.0.2/Procedural_Canvas_1.0.2.zip",
+  "sha256": "03440e64e3c4773d5aaad3150c887c74915b320b511efea99acbe26d961ce0db",
   "url": "",
-  "notes": "New node icon (KL logo)"
+  "notes": "Fixed: the update message did not appear"
 }
