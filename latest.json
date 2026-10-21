@@ -1,7 +1,7 @@
 {
-  "version": "1.0.7",
-  "zip": "https://github.com/alexanderklymak/procedural-canvas-releases/releases/download/v1.0.7/Procedural_Canvas_1.0.7.zip",
-  "sha256": "b500b80ae14a420348c83eb226635a69fb9b38063ee8b2fbe890d2786547d202",
+  "version": "1.0.8",
+  "zip": "https://github.com/alexanderklymak/procedural-canvas-releases/releases/download/v1.0.8/Procedural_Canvas_1.0.8.zip",
+  "sha256": "37c310481443b074137f84ef420433316f560acf8a121e1810ff29fbe174f771",
   "url": "",
-  "notes": "Memory is freed when a board is closed; user guide (Settings > About > User guide); a new major version is never installed automatically"
+  "notes": "Grid no longer jitters during zoom"
 }
