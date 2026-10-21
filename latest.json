@@ -1,7 +1,7 @@
 {
-  "version": "1.0.5",
-  "zip": "https://github.com/alexanderklymak/procedural-canvas-releases/releases/download/v1.0.5/Procedural_Canvas_1.0.5.zip",
-  "sha256": "b9df967fa4ea1b2242bfbe41086e4f59d463e60c68fe4877005be05cde5c95d0",
+  "version": "1.0.6",
+  "zip": "https://github.com/alexanderklymak/procedural-canvas-releases/releases/download/v1.0.6/Procedural_Canvas_1.0.6.zip",
+  "sha256": "040a2e308b42fdd4f78ff710995745ce2cabdbd2a52d8e5ce5283a524c564757",
   "url": "",
-  "notes": "Fixed: docking a board into a Houdini pane"
+  "notes": "Houdini 22 support (Python 3.13)"
 }
