@@ -1,7 +1,7 @@
 {
-  "version": "1.0.8",
-  "zip": "https://github.com/alexanderklymak/procedural-canvas-releases/releases/download/v1.0.8/Procedural_Canvas_1.0.8.zip",
-  "sha256": "37c310481443b074137f84ef420433316f560acf8a121e1810ff29fbe174f771",
-  "url": "",
-  "notes": "Grid no longer jitters during zoom"
+  "version": "1.0.9",
+  "zip": "https://raw.githubusercontent.com/alexanderklymak/procedural-canvas-releases/main/files/Procedural_Canvas_1.0.9.zip",
+  "sha256": "5cdf2fab2f1ff160163a98273906d34888654dc0aa3da2ae378417cddd212e1e",
+  "url": "https://alexanderklymak.com/tools/procedural-canvas/",
+  "notes": "License check and updates now work on macOS (fixed the SSL certificate error)"
 }
