@@ -1,7 +1,7 @@
 {
-  "version": "1.0.10",
-  "zip": "https://raw.githubusercontent.com/alexanderklymak/procedural-canvas-releases/main/files/Procedural_Canvas_1.0.10.zip",
-  "sha256": "a86c1cf01c856ed677cc3f638bddd357ed4ce5249db2cbab2cc424fde2a26278",
+  "version": "1.0.0",
+  "zip": "https://github.com/alexanderklymak/procedural-canvas-releases/releases/download/v1.0.0/Procedural_Canvas_1.0.0.zip",
+  "sha256": "0cedd0f903ecdf370765a0478d35bced72a5554e5ae6b463e0e87360d569ed25",
   "url": "https://alexanderklymak.com/tools/procedural-canvas/",
-  "notes": "macOS: menus, toolbar buttons and the tool list show correctly (emoji replaced by Houdini icons)"
+  "notes": "First release"
 }
