@@ -1,7 +1,7 @@
 {
-  "version": "1.0.0",
-  "zip": "https://github.com/alexanderklymak/procedural-canvas-releases/releases/download/v1.0.0/Procedural_Canvas_1.0.0.zip",
-  "sha256": "0cedd0f903ecdf370765a0478d35bced72a5554e5ae6b463e0e87360d569ed25",
+  "version": "1.1.0",
+  "zip": "https://github.com/alexanderklymak/procedural-canvas-releases/releases/download/v1.1.0/Procedural_Canvas_1.1.0.zip",
+  "sha256": "ce5fe3bbfdf3128d86c7c59dadb2a197ecc66e7900585d9ba75dfc44e2c707ec",
   "url": "https://alexanderklymak.com/tools/procedural-canvas/",
-  "notes": "First release"
+  "notes": "Network preview: a picture of the board next to the node, saved inside the .hip and visible without the plugin (Open Preview, show/hide, size, brightness, area of the board) Ctrl+Shift+C copies the selection (or a dragged area) as a picture to paste anywhere Eyedropper in every color palette; recent colors are kept for all boards"
 }
