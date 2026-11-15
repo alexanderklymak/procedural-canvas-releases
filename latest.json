@@ -1,7 +1,7 @@
 {
-  "version": "1.1.0",
-  "zip": "https://github.com/alexanderklymak/procedural-canvas-releases/releases/download/v1.1.0/Procedural_Canvas_1.1.0.zip",
-  "sha256": "ce5fe3bbfdf3128d86c7c59dadb2a197ecc66e7900585d9ba75dfc44e2c707ec",
+  "version": "1.1.1",
+  "zip": "https://github.com/alexanderklymak/procedural-canvas-releases/releases/download/v1.1.1/Procedural_Canvas_1.1.1.zip",
+  "sha256": "a0c1d8b6a16a0e21a1047fc9b89a1e67b8b53b808320fc466e9014ffd09f83dd",
   "url": "https://alexanderklymak.com/tools/procedural-canvas/",
-  "notes": "Network preview: a picture of the board next to the node, saved inside the .hip and visible without the plugin (Open Preview, show/hide, size, brightness, area of the board) Ctrl+Shift+C copies the selection (or a dragged area) as a picture to paste anywhere Eyedropper in every color palette; recent colors are kept for all boards"
+  "notes": "Paste with formatting: headings, bold, italic, lists, checklists and tables from ChatGPT, web pages and documents, in the board's own font (Ctrl+Shift+V pastes plain text) Align panel on the toolbar: align and distribute selected items, also with Alt+A/H/D/W/V/S and Alt+Shift+H/V The sample text of a new code block or sticky disappears when you start typing or paste"
 }
