@@ -1,7 +1,7 @@
 {
-  "version": "1.1.1",
-  "zip": "https://github.com/alexanderklymak/procedural-canvas-releases/releases/download/v1.1.1/Procedural_Canvas_1.1.1.zip",
-  "sha256": "a0c1d8b6a16a0e21a1047fc9b89a1e67b8b53b808320fc466e9014ffd09f83dd",
+  "version": "1.2.0",
+  "zip": "https://github.com/alexanderklymak/procedural-canvas-releases/releases/download/v1.2.0/Procedural_Canvas_1.2.0.zip",
+  "sha256": "f9a31f33075005775d9afb7f942f77cfee766546df485ce3a97cff97ba08d184",
   "url": "https://alexanderklymak.com/tools/procedural-canvas/",
-  "notes": "Paste with formatting: headings, bold, italic, lists, checklists and tables from ChatGPT, web pages and documents, in the board's own font (Ctrl+Shift+V pastes plain text) Align panel on the toolbar: align and distribute selected items, also with Alt+A/H/D/W/V/S and Alt+Shift+H/V The sample text of a new code block or sticky disappears when you start typing or paste"
+  "notes": "Brush wheel: hold Q over the board for color, size, brush style, tool, marker opacity, eyedropper and brush presets (the key, a side mouse button and the wheel size are in Settings > Controls) Code blocks: a copy button and Send to Wrangle, into the selected Wrangle or a new one Snap to grid is off when a board opens; smart guides do the aligning"
 }
