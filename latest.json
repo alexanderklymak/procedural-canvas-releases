@@ -1,7 +1,7 @@
 {
-  "version": "1.2.0",
-  "zip": "https://github.com/alexanderklymak/procedural-canvas-releases/releases/download/v1.2.0/Procedural_Canvas_1.2.0.zip",
-  "sha256": "f9a31f33075005775d9afb7f942f77cfee766546df485ce3a97cff97ba08d184",
-  "url": "https://alexanderklymak.com/tools/procedural-canvas/",
-  "notes": "Brush wheel: hold Q over the board for color, size, brush style, tool, marker opacity, eyedropper and brush presets (the key, a side mouse button and the wheel size are in Settings > Controls) Code blocks: a copy button and Send to Wrangle, into the selected Wrangle or a new one Snap to grid is off when a board opens; smart guides do the aligning"
+    "version":  "1.2.0",
+    "zip":  "https://github.com/alexanderklymak/procedural-canvas-releases/releases/download/v1.2.0/Procedural_Canvas_1.2.0.zip",
+    "sha256":  "24bc978c4db033f20b5675a41a26308480247113abfd1c2d45522bb30a4b5c89",
+    "url":  "https://alexanderklymak.com/tools/procedural-canvas/",
+    "notes":  "Brush wheel: hold Q over the board for color, size, brush style, tool, marker opacity, eyedropper and brush presets (the key, a side mouse button and the wheel size are in Settings \u003e Controls) Code blocks: a copy button and Send to Wrangle, into the selected Wrangle or a new one Snap to grid is off when a board opens; smart guides do the aligning"
 }
